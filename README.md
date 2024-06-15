@@ -12,6 +12,7 @@
 
 > Add CGPath to .caml files
 
+**Thanks to [@htrowii](https://twitter.com/htrowii)**
 
 [Read Reddit GUI](https://www.reddit.com/r/iOSthemes/comments/12dbmcy/tutorial_theming_ios_control_center_modules_on/?rdt=54329&onetap_auto=true&one_tap=true)
 =============
