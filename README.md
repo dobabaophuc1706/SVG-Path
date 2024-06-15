@@ -1,4 +1,4 @@
-[XCode Project to get CGPaths](https://github.com/dobabaophuc1706/misakarepo)
+[XCode Project to get CGPaths](https://github.com/dobabaophuc1706/SVG-Path)
 =============
 <p align="center"> 
  <img src="https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706/main/README/Avt.png" alt="Avt" width="Avt" height="200"/> 
@@ -6,14 +6,16 @@
 
   <h3 align="left">Projects to get CGPath from SVG for CC modules</h3>
   
-> Open **SVG** file with **PaintCode** to get UIBezierPath code
+> Open **SVG.pcvd** file with **PaintCode** to get UIBezierPath code
 
 > Add UIBezierPath code to **JUST WORK.swiftpm** and Build in Xcode to get CGPath
 
-> Add CGPath to .caml files
+> Add CGPath to **.caml** files
 
 > [!CAUTION]
 > 100% using MacOS
+
+![Screenshot of building XCode Project.](https://preview.redd.it/tutorial-theming-ios-control-center-modules-on-ios-11-and-v0-tt6aehqnn7sa1.png?width=1660&format=png&auto=webp&s=75791532760ca31c66d8fa68392eb13d03841741)
 
 **Thanks to [@htrowii](https://twitter.com/htrowii)**
 
