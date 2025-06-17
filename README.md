@@ -6,7 +6,7 @@
 
   <h3 align="left">Projects to get CGPath from SVG for CC modules</h3>
   
-> Open **SVG.pcvd** file with **PaintCode** to get UIBezierPath code
+> Open **SVG.pcvd** file with **PaintCode** to get UIBezierPath siuujhg
 
 > Add UIBezierPath code to **JUST WORK.swiftpm** and Build in Xcode to get CGPath
 
@@ -20,4 +20,6 @@
 **Thanks to [@htrowii](https://twitter.com/htrowii)**
 
 [Read Reddit GUI](https://www.reddit.com/r/iOSthemes/comments/12dbmcy/tutorial_theming_ios_control_center_modules_on/?rdt=54329&onetap_auto=true&one_tap=true)
+[Youtube GUI](https://www.youtube.com/watch?v=qGLaT8nntAQ)
+
 =============
